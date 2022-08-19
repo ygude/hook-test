@@ -2,3 +2,6 @@
 #Test1
 #Test1
 #Test1
+Hello
+Holaecho Hello >> sample.txt 
+Hola 
